@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa022/tls/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天官考異
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa022.xml
+hash: sha256:012d0ad8665f4efa3ee07527129e6909d19eb4710ab901e7c13fb83b730e4663
